@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cp/layout/left-side-menu.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cp/layout" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cp/product/create.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cp/product" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cp/product/delete.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cp/product" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cp/product/edit.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cp/product" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cp/product/editOut.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cp/product" />
+      </map>
+    </option>
+  </component>
+</project>
